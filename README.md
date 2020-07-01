@@ -53,9 +53,8 @@ bash status.sh c
 
 ## 效果演示
 
-![](https://i.loli.net/2019/04/05/5ca74fb05338f.png)
+![](https://s1.ax1x.com/2020/07/01/NTCRPO.png)
 
-![](https://i.loli.net/2019/04/05/5ca74fc86db96.png)
 
 当然前端可以自己自定义。
 
